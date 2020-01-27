@@ -1,0 +1,2 @@
+smtp.bbox.fr
+envoi.ac-bordeaux.fr
